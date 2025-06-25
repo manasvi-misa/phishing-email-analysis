@@ -2,7 +2,8 @@
 
 ##  Sample Email Screenshot
 ![Phishing Email](email_sample.png)
-This screenshot is taken fo=rom an online site with url - https://www.phishing.org/phishing-examples which usually provides same phishing emails for practioners to practice on.
+
+This screenshot is taken from an online site with url - https://www.phishing.org/phishing-examples which usually provides same phishing emails for practioners to practice on.
 ---
 
 ##  Phishing Indicators Identified
