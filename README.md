@@ -1,11 +1,11 @@
-# Phishing Email Analysis Report
+# Task 2 - Phishing Email Analysis Report
 
-## 📨 Sample Email Screenshot
+##  Sample Email Screenshot
 ![Phishing Email](email_sample.png)
-
+This screenshot is taken fo=rom an online site with url - https://www.phishing.org/phishing-examples which usually provides same phishing emails for practioners to practice on.
 ---
 
-## 🔍 Phishing Indicators Identified
+##  Phishing Indicators Identified
 
 1. **Spoofed Sender**: `no-reply_msteam2@outlook.com` (not a Microsoft domain)
 2. **Urgent Tone**: "Unusual sign-in", "malicious user", etc.
